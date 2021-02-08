@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>CSharp8._0</RootNamespace>
+    <!--<StartupObject>CSharp8._0.SwitchExpressions</StartupObject>-->
+    <!--<StartupObject>CSharp8._0.PropertyPatternsInSwitchExpressions</StartupObject>-->
+    <!--<StartupObject>CSharp8._0.TuplesPattern</StartupObject>-->
+    <!--<StartupObject>CSharp8._0.StaticLocalFunctions</StartupObject>-->
+    <!--<StartupObject>CSharp8._0.AsynchronousStreams</StartupObject>-->
+    <!--<StartupObject>CSharp8._0.DefaultInterfaceMethods</StartupObject>-->
+    <!--<StartupObject>CSharp8._0.IndicesAndRanges</StartupObject>-->
+        <StartupObject>CSharp8._0.NullCoalescing_Operator</StartupObject>
+        
+        
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <LangVersion>8.0</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <LangVersion>8.0</LangVersion>
+  </PropertyGroup>
+</Project>

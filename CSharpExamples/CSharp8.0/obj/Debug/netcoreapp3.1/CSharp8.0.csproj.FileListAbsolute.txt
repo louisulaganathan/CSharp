@@ -1,0 +1,12 @@
+/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp8.0/obj/Debug/netcoreapp3.1/CSharp8.0.csprojAssemblyReference.cache
+/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp8.0/obj/Debug/netcoreapp3.1/CSharp8.0.AssemblyInfoInputs.cache
+/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp8.0/obj/Debug/netcoreapp3.1/CSharp8.0.AssemblyInfo.cs
+/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp8.0/obj/Debug/netcoreapp3.1/CSharp8.0.csproj.CoreCompileInputs.cache
+/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp8.0/bin/Debug/netcoreapp3.1/CSharp8.0.deps.json
+/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp8.0/bin/Debug/netcoreapp3.1/CSharp8.0.runtimeconfig.json
+/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp8.0/bin/Debug/netcoreapp3.1/CSharp8.0.runtimeconfig.dev.json
+/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp8.0/bin/Debug/netcoreapp3.1/CSharp8.0.dll
+/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp8.0/bin/Debug/netcoreapp3.1/CSharp8.0.pdb
+/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp8.0/obj/Debug/netcoreapp3.1/CSharp8.0.dll
+/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp8.0/obj/Debug/netcoreapp3.1/CSharp8.0.pdb
+/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp8.0/obj/Debug/netcoreapp3.1/CSharp8.0.genruntimeconfig.cache

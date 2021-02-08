@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{D8BA13DD-4388-467E-804B-3B4AB755CBBE}|Default">
+  <MonoDevelop.Ide.ItemProperties.CSharp8.0 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DeveloperClassification.md">
+    <Files>
+      <File FileName="CSharp9.0/RecordReferenceType.cs" Line="68" Column="114" />
+      <File FileName="CSharp9.0/InitOnlySetters.cs" />
+      <File FileName="CSharp9.0/TopLevelStatements.cs" />
+      <File FileName="CSharp9.0/NewObjectCreationFitAndFinishFeature.cs" />
+      <File FileName=".NET5.md" />
+      <File FileName=".NETvs.NETCorevs.NETStd.md" />
+      <File FileName="DeveloperClassification.md" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharpExamples" expanded="True">
+            <Node name="Solution Items" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CSharp7.0 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CSharp9.0 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{E818BCC8-4D76-45E4-A18D-228014D514F0}" ItemName="CSharp6.0Samples" ConfigurationId="Default" />
+        <StartupItem ItemId="{CDC9F4FE-ECA2-464C-B786-045F94333230}" ItemName="CSharp7.0" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.ItemProperties.CSharp6.0Samples PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

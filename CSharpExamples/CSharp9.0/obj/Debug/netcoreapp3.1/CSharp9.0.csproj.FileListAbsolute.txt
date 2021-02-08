@@ -1,0 +1,4 @@
+/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp9.0/obj/Debug/netcoreapp3.1/CSharp9.0.AssemblyInfoInputs.cache
+/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp9.0/obj/Debug/netcoreapp3.1/CSharp9.0.AssemblyInfo.cs
+/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp9.0/obj/Debug/netcoreapp3.1/CSharp9.0.csproj.CoreCompileInputs.cache
+/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp9.0/obj/Debug/netcoreapp3.1/CSharp9.0.csprojAssemblyReference.cache

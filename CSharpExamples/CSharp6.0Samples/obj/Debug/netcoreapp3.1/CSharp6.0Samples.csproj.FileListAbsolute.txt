@@ -1,0 +1,12 @@
+/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp6.0Samples/obj/Debug/netcoreapp3.1/CSharp6.0Samples.csprojAssemblyReference.cache
+/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp6.0Samples/obj/Debug/netcoreapp3.1/CSharp6.0Samples.AssemblyInfoInputs.cache
+/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp6.0Samples/obj/Debug/netcoreapp3.1/CSharp6.0Samples.AssemblyInfo.cs
+/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp6.0Samples/obj/Debug/netcoreapp3.1/CSharp6.0Samples.csproj.CoreCompileInputs.cache
+/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp6.0Samples/bin/Debug/netcoreapp3.1/CSharp6.0Samples.deps.json
+/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp6.0Samples/bin/Debug/netcoreapp3.1/CSharp6.0Samples.runtimeconfig.json
+/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp6.0Samples/bin/Debug/netcoreapp3.1/CSharp6.0Samples.runtimeconfig.dev.json
+/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp6.0Samples/bin/Debug/netcoreapp3.1/CSharp6.0Samples.dll
+/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp6.0Samples/bin/Debug/netcoreapp3.1/CSharp6.0Samples.pdb
+/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp6.0Samples/obj/Debug/netcoreapp3.1/CSharp6.0Samples.dll
+/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp6.0Samples/obj/Debug/netcoreapp3.1/CSharp6.0Samples.pdb
+/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp6.0Samples/obj/Debug/netcoreapp3.1/CSharp6.0Samples.genruntimeconfig.cache
