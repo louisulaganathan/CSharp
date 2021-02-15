@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp9.0/CSharp9.0.csproj",
+      "projectUniqueName": "/Users/louisrajulaganathan/Projects/CSharp/CSharpExamples/CSharp9.0/CSharp9.0.csproj",
       "projectName": "CSharp9.0",
-      "projectPath": "/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp9.0/CSharp9.0.csproj",
+      "projectPath": "/Users/louisrajulaganathan/Projects/CSharp/CSharpExamples/CSharp9.0/CSharp9.0.csproj",
       "packagesPath": "/Users/louisrajulaganathan/.nuget/packages/",
-      "outputPath": "/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp9.0/obj/",
+      "outputPath": "/Users/louisrajulaganathan/Projects/CSharp/CSharpExamples/CSharp9.0/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/louisrajulaganathan/.config/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp6.0Samples/CSharp6.0Samples.csproj": {}
+    "/Users/louisrajulaganathan/Projects/CSharp/CSharpExamples/CSharp6.0Samples/CSharp6.0Samples.csproj": {}
   },
   "projects": {
-    "/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp6.0Samples/CSharp6.0Samples.csproj": {
+    "/Users/louisrajulaganathan/Projects/CSharp/CSharpExamples/CSharp6.0Samples/CSharp6.0Samples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp6.0Samples/CSharp6.0Samples.csproj",
+        "projectUniqueName": "/Users/louisrajulaganathan/Projects/CSharp/CSharpExamples/CSharp6.0Samples/CSharp6.0Samples.csproj",
         "projectName": "CSharp6.0Samples",
-        "projectPath": "/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp6.0Samples/CSharp6.0Samples.csproj",
+        "projectPath": "/Users/louisrajulaganathan/Projects/CSharp/CSharpExamples/CSharp6.0Samples/CSharp6.0Samples.csproj",
         "packagesPath": "/Users/louisrajulaganathan/.nuget/packages/",
-        "outputPath": "/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp6.0Samples/obj/",
+        "outputPath": "/Users/louisrajulaganathan/Projects/CSharp/CSharpExamples/CSharp6.0Samples/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/louisrajulaganathan/.config/NuGet/NuGet.Config"

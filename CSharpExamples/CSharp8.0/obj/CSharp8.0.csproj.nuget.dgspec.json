@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp8.0/CSharp8.0.csproj": {}
+    "/Users/louisrajulaganathan/Projects/CSharp/CSharpExamples/CSharp8.0/CSharp8.0.csproj": {}
   },
   "projects": {
-    "/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp8.0/CSharp8.0.csproj": {
+    "/Users/louisrajulaganathan/Projects/CSharp/CSharpExamples/CSharp8.0/CSharp8.0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp8.0/CSharp8.0.csproj",
+        "projectUniqueName": "/Users/louisrajulaganathan/Projects/CSharp/CSharpExamples/CSharp8.0/CSharp8.0.csproj",
         "projectName": "CSharp8.0",
-        "projectPath": "/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp8.0/CSharp8.0.csproj",
+        "projectPath": "/Users/louisrajulaganathan/Projects/CSharp/CSharpExamples/CSharp8.0/CSharp8.0.csproj",
         "packagesPath": "/Users/louisrajulaganathan/.nuget/packages/",
-        "outputPath": "/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp8.0/obj/",
+        "outputPath": "/Users/louisrajulaganathan/Projects/CSharp/CSharpExamples/CSharp8.0/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/louisrajulaganathan/.config/NuGet/NuGet.Config"

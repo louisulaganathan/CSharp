@@ -1,24 +1,10 @@
 ﻿<Properties StartupConfiguration="{D8BA13DD-4388-467E-804B-3B4AB755CBBE}|Default">
   <MonoDevelop.Ide.ItemProperties.CSharp8.0 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DeveloperClassification.md">
+  <MonoDevelop.Ide.Workbench ActiveDocument=".NET5.md">
     <Files>
-      <File FileName="CSharp9.0/RecordReferenceType.cs" Line="68" Column="114" />
-      <File FileName="CSharp9.0/InitOnlySetters.cs" />
-      <File FileName="CSharp9.0/TopLevelStatements.cs" />
-      <File FileName="CSharp9.0/NewObjectCreationFitAndFinishFeature.cs" />
-      <File FileName=".NET5.md" />
+      <File FileName=".NET5.md" Line="75" Column="31" />
       <File FileName=".NETvs.NETCorevs.NETStd.md" />
-      <File FileName="DeveloperClassification.md" Line="8" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="CSharpExamples" expanded="True">
-            <Node name="Solution Items" expanded="True" selected="True" />
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.CSharp7.0 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

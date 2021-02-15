@@ -1,7 +1,9 @@
-﻿In 2002, Microsoft released .NET Framework, a development platform for creating Windows apps. Today .NET Framework is at version 4.8 and is still supported by Microsoft.
+﻿.NET Roadmap & Future Plan:
+===========================
+In 2002, Microsoft released .NET Framework, a development platform for creating Windows apps. Today .NET Framework is at version 4.8,  5,... and is still supported by Microsoft.
 
 In 2014, Microsoft began writing a cross-platform, open-source successor to .NET Framework. This new implementation of .NET was named .NET Core until it reached version 3.1.
-The next version after .NET Core 3.1 is .NET 5.0, which is currently in preview.
+The next version after .NET Core 3.1 is .NET 5.0
 Version number 4 was skipped to avoid confusion between this implementation of .NET and .NET Framework 4.8.
 The name "Core" was dropped to make clear that this is now the main implementation of .NET.
 
@@ -64,41 +66,5 @@ Version	    Release Date	    End of Support
 .NET 5 RC 2	October 13, 2020	November 10, 2020
 .NET 5 RC 1	September 14, 2020	October 13, 2020
 
-CI/CD
-======
-MSBuild and the .NET CLI can be used with various continuous integration tools and environments, such as:
 
-GitHub Actions
-Azure DevOps
-CAKE
-FAKE
 
-NuGet
-======
-NuGet is an open-source package manager designed for .NET.
-A NuGet package is a .zip file with the .nupkg extension that contains compiled code (DLLs), other files related to that code,
- and a descriptive manifest that includes information like the package's version number.
-Developers with code to share create packages and publish them to nuget.org or a private host. D
-evelopers who want to use shared code add a package to their project and can then call the API exposed by the package in their project code.
-
-CLR
-=====
-The .NET CLR is a cross-platform runtime that includes support for Windows, macOS, and Linux.
-The CLR handles memory allocation and management.
-The CLR is also a virtual machine that not only executes apps but also generates and compiles code using a just-in-time (JIT) compiler.
-
-JIT compiler and IL
-=====================
-Higher-level .NET languages, such as C#, compile down to a hardware-agnostic instruction set, which is called Intermediate Language (IL).
-When an app runs, the JIT compiler translates IL to machine code that the processor understands.
-JIT compilation happens on the same machine that the code is going to run on.
-
-Since JIT compilation occurs during execution of the application, the compilation time is part of the run time.
-
-AOT compiler
-=============
-The default experience for most .NET workloads is the JIT compiler, but .NET offers two forms of ahead-of-time (AOT) compilation:
-
-Some scenarios require 100% AOT compilation. An example is iOS[xamerin.ios SDK].
-In other scenarios, most of an app's code is AOT-compiled but some is JIT-compiled. Some code patterns aren't friendly to AOT (like generics).
-An example of this form of AOT compilation is the ready-to-run publish option. This form of AOT offers the benefits of AOT without its drawbacks.
