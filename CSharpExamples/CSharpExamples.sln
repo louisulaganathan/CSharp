@@ -9,14 +9,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Constants.md = Constants.md
 		AsynchronousProgramming.md = AsynchronousProgramming.md
 		MutableAndImmutableTypes.md = MutableAndImmutableTypes.md
-		.NETFrameworkVersions&Roadmap.html = .NETFrameworkVersions&Roadmap.html
 		DotNetFrameworkRoadmap.html = DotNetFrameworkRoadmap.html
-		.NET5.md = .NET5.md
-		.NETvs.NETCorevs.NETStd.md = .NETvs.NETCorevs.NETStd.md
 		A.SDKVsRunTime.md = A.SDKVsRunTime.md
-		.DeveloperRoleClassification.md = .DeveloperRoleClassification.md
-		B.DotNetRoadmap&FuturePlan.md = B.DotNetRoadmap&FuturePlan.md
 		C.BasicDotNetConcepts.md = C.BasicDotNetConcepts.md
+		DeveloperRoleClassification.md = DeveloperRoleClassification.md
+		DotNET5.md = DotNET5.md
+		DotNETvs.NETCorevs.NETStd.md = DotNETvs.NETCorevs.NETStd.md
+		B.DotNetRoadmap-FuturePlan.md = B.DotNetRoadmap-FuturePlan.md
+		DotNETFrameworkVersions&Roadmap.html = DotNETFrameworkVersions&Roadmap.html
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp8.0", "CSharp8.0\CSharp8.0.csproj", "{3B896D69-8AA0-489B-9FC6-B39EB16AD018}"
