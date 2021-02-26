@@ -7,7 +7,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		GeneralCSharpConcepts-Fields.md = GeneralCSharpConcepts-Fields.md
 		Constants.md = Constants.md
-		AsynchronousProgramming.md = AsynchronousProgramming.md
 		MutableAndImmutableTypes.md = MutableAndImmutableTypes.md
 		DotNetFrameworkRoadmap.html = DotNetFrameworkRoadmap.html
 		A.SDKVsRunTime.md = A.SDKVsRunTime.md
@@ -17,6 +16,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		DotNETvs.NETCorevs.NETStd.md = DotNETvs.NETCorevs.NETStd.md
 		B.DotNetRoadmap-FuturePlan.md = B.DotNetRoadmap-FuturePlan.md
 		DotNETFrameworkVersions&Roadmap.html = DotNETFrameworkVersions&Roadmap.html
+		1.AsynchronousProgramming.md = 1.AsynchronousProgramming.md
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp8.0", "CSharp8.0\CSharp8.0.csproj", "{3B896D69-8AA0-489B-9FC6-B39EB16AD018}"
