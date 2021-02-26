@@ -1,9 +1,17 @@
 ﻿<Properties StartupConfiguration="{D8BA13DD-4388-467E-804B-3B4AB755CBBE}|Default">
   <MonoDevelop.Ide.ItemProperties.CSharp8.0 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument=".NETFrameworkVersions&amp;Roadmap.html">
+  <MonoDevelop.Ide.Workbench ActiveDocument="D.ValueAndReferenceTypes.md">
     <Files>
       <File FileName=".NET5.md" Line="75" Column="31" />
-      <File FileName=".NETFrameworkVersions&amp;Roadmap.html" Line="1" Column="1" />
+      <File FileName=".NETFrameworkVersions&amp;Roadmap.html" Line="10" Column="108" />
+      <File FileName="1.SDKVsRunTime.md" Line="1" Column="1" />
+      <File FileName="2.DotNetRoadmap-FuturePlan.md" Line="1" Column="1" />
+      <File FileName="DotNetFrameworkRoadmap.html" Line="56" Column="12" />
+      <File FileName="3.BasicDotNetConcepts.md" Line="1" Column="1" />
+      <File FileName="4.DotNETvs.NETCorevs.NETStd.md" Line="1" Column="1" />
+      <File FileName="GeneralCSharpConcepts-Fields.md" Line="1" Column="1" />
+      <File FileName="Constants.md" Line="1" Column="1" />
+      <File FileName="D.ValueAndReferenceTypes.md" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
