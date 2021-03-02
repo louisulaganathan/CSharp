@@ -46,3 +46,9 @@ A variable of a value type contains an instance of the type. This differs from a
     Delegate types
       User-defined types of the form delegate int D(...)
 
+
+**Boxing & UnBoxing:**
+
+int i = 123;
+object o = i;    // Boxing.  conversion of value type to ref type
+int j = (int)o;  // Unboxing. conversion of ref type to value type
