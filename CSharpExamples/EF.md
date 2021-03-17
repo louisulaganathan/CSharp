@@ -37,3 +37,62 @@ Then generate DB from the model.
 
 Database First
 ---------------
+Create models using edmx from an existing DB is called DB first.
+EDM can be updated whenever the DB schema changes.
+
+LINQ -.NET3.5
+==============
+Used to query different data sources like entities, sql 
+
+Linq to entities operates on EF to access data from the underlying DB
+LINQ method syntax
+==================
+using (var context = new StudentDBContext())
+{
+ var query =  context.Students.Where(s=>s.Name = 'bil');
+ var student = query.FirstOrDefault<Student>();
+}
+    
+LINQ Query
+===========
+Using(var context = new StudentDBContext())
+{
+ var query = st in context.Students
+             where st.name = 'bil'
+             select st;
+ var student = query.FirstOrDefault<Student>();
+}
+
+LINQ query returns **IQueryable** object.
+Why LINQ
+========
+    Less Coding
+    Readable Code
+    Standard way of querying multiple datasource
+    Compile time safety of query - Type safety
+    Intellisense support
+    
+Extension Methods:
+=================
+It allows you to add new methods to the existing types without creating new derived types or modifying existing types.
+It is special kind of static methods.
+
+public static <ReturnType> MethodName(this <ExtensionType> variableName) {
+    }
+    
+ string name = "Louis Raj";
+ name.LetterCount();
+    
+public static int LetterCount(this string text)
+{
+return text.trim().length;
+}
+
+LamdaExpressions:
+=================
+Lamda expressions are anonymous functions and mostly used to create delegates in LINQ.
+List<int> numbers = new List<int> {11,37,52};
+List<int> oddNumbers =  numbers.where(n=>n%2 == 1).ToList<>;
+    n=>n%2==1    => Lamda Expressions
+    
+we can write local functions that can be passed as arg or returned as value.
