@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Net.Http;
 using System.Threading.Tasks;
 
 namespace CSharp6._0Samples
@@ -13,7 +14,7 @@ namespace CSharp6._0Samples
         public async Task<string> MakeRequestAndLogFailures()
         {
             await logMethodEntrance();
-            var client = new System.Net.Http.HttpClient();
+            var client = new HttpClient();
             var streamTask = client.GetStringAsync("https://localHost:10000");
             try
             {

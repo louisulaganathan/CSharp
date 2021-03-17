@@ -4,3 +4,7 @@
 /Users/louisrajulaganathan/Projects/CSharpExamples/CSharp/bin/Debug/CSharp.pdb
 /Users/louisrajulaganathan/Projects/CSharpExamples/CSharp/obj/Debug/CSharp7.0.csprojAssemblyReference.cache
 /Users/louisrajulaganathan/Projects/CSharpExamples/CSharp/obj/Debug/CSharp7.0.csproj.CoreCompileInputs.cache
+/Users/louisrajulaganathan/Projects/CSharp/CSharpExamples/CSharp/obj/Debug/CSharp7.0.csprojAssemblyReference.cache
+/Users/louisrajulaganathan/Projects/CSharp/CSharpExamples/CSharp/obj/Debug/CSharp7.0.csproj.CoreCompileInputs.cache
+/Users/louisrajulaganathan/Projects/CSharp/CSharpExamples/CSharp/obj/Debug/CSharp.exe
+/Users/louisrajulaganathan/Projects/CSharp/CSharpExamples/CSharp/obj/Debug/CSharp.pdb

@@ -59,9 +59,18 @@ namespace CSharp
             //Actually Async process starts here
             async Task<string> longRunningWorkImplementation()
             {
-                var interimResult = await FirstWork(address);
-                var secondResult = await SecondStep(index, name);
+                var interimResult = FirstWork(address);
+                var secondResult = SecondStep(index, name);
                 return $"The results are {interimResult} and {secondResult}. Enjoy.";
+            }
+
+            string FirstWork(string street)
+            {
+                return street;
+            }
+            string SecondStep(int index1, string name1)
+            {
+                return name1;
             }
         }
     }

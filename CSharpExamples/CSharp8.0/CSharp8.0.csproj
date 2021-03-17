@@ -7,11 +7,11 @@
     <!--<StartupObject>CSharp8._0.SwitchExpressions</StartupObject>-->
     <!--<StartupObject>CSharp8._0.PropertyPatternsInSwitchExpressions</StartupObject>-->
     <!--<StartupObject>CSharp8._0.TuplesPattern</StartupObject>-->
-    <!--<StartupObject>CSharp8._0.StaticLocalFunctions</StartupObject>-->
+    <StartupObject>CSharp8._0.StaticLocalFunctions</StartupObject>
     <!--<StartupObject>CSharp8._0.AsynchronousStreams</StartupObject>-->
     <!--<StartupObject>CSharp8._0.DefaultInterfaceMethods</StartupObject>-->
     <!--<StartupObject>CSharp8._0.IndicesAndRanges</StartupObject>-->
-        <StartupObject>CSharp8._0.NullCoalescing_Operator</StartupObject>
+        <!--<StartupObject>CSharp8._0.NullCoalescing_Operator</StartupObject>-->
         
         
   </PropertyGroup>

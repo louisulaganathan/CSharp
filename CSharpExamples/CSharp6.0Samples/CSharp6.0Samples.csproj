@@ -2,17 +2,16 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net45</TargetFramework>
     <RootNamespace>CSharp6._0Samples</RootNamespace>
-<!--        <StartupObject>CSharp6._0Samples.AutoPropertyInitialization</StartupObject>-->
+        <StartupObject>CSharp6._0Samples.AutoPropertyInitialization</StartupObject>
 <!--        <StartupObject>CSharp6._0Samples.NullConditionalOperatorDemo</StartupObject>-->
 <!--        <StartupObject>CSharp6._0Samples.StringInterpolationDemo</StartupObject>-->
 <!--        <StartupObject>CSharp6._0Samples.ExceptionFiltersDemo</StartupObject>-->
 <!--        <StartupObject>CSharp6._0Samples.NameOfDemo</StartupObject>-->
-        <StartupObject>CSharp6._0Samples.AwaitInCatchFinallyBlocksDemo</StartupObject>
+<!--        <StartupObject>CSharp6._0Samples.AwaitInCatchFinallyBlocksDemo</StartupObject>-->
         
   </PropertyGroup>
-
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <LangVersion>6</LangVersion>
   </PropertyGroup>

@@ -1,6 +1,11 @@
 ﻿using System;
 namespace CSharp8._0
 {
+
+    /*********************************
+     * The switch expression provides for switch-like semantics in an expression context. 
+     * It provides a concise syntax when the switch arms produce a value.
+     *********************************/
     public class Address
     {
         public string AddressLine1 { get; set; }
@@ -29,10 +34,61 @@ namespace CSharp8._0
         // other cases removed for brevity...
         _ => 0M
     };
+        public static decimal ComputeSalesTax1(Address location, decimal salePrice)
+        {
+            switch (location.State)
+            {
+                case "WA":
+                    {
+                        salePrice *= 0.06M;
+                        break;
+                    }
+                default:
+                    {
+                        break;
+                    }
+
+            }
+            return salePrice;
+        }
         public static void Main(string[] args)
         {
             PropertyPatternsInSwitchExpressions demo = new PropertyPatternsInSwitchExpressions();
             demo.PropertyPatternDemo();
+        }
+    }
+//  #Example 2
+    public static class SwitchExample
+    {
+        public enum Directions
+        {
+            Up,
+            Down,
+            Right,
+            Left
+        }
+
+        public enum Orientation
+        {
+            North,
+            South,
+            East,
+            West
+        }
+
+        public static void Main()
+        {
+            var direction = Directions.Right;
+            Console.WriteLine($"Map view direction is {direction}");
+
+            var orientation = direction switch
+            {
+                Directions.Up => Orientation.North,
+                Directions.Right => Orientation.East,
+                Directions.Down => Orientation.South,
+                Directions.Left => Orientation.West,
+            };
+            Console.WriteLine($"Cardinal orientation is {orientation}");
         }
     }
 }
