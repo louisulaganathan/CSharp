@@ -40,3 +40,32 @@ Virtualization Tools:
   ------------------
   Appln can be scaled at the business level.
   
+Containerization-Dockers:
+--------------------------
+
+Containerization is an approach in which an appln or service , its dependencies and its configurations are packaged together as a container image.
+Containerized appln can be tested as a  unit & deployed as a container image instance to the host OS.
+Container image is immutable once it is created.
+
+Docker:
+--------
+Docker is a containerization platform.
+
+Kubernetes:
+-----------
+Developed by google
+Container orchestrator for container platforms like docker.
+
+developers could package their appln including all bins & libraries it needs to run correctly into a small container image.
+
+In production that container can be run on any computer that has a containerization platform.
+
+Docker Engine:
+---------------
+
+The runtime that allows you to build & run the containers.
+The docker file defines everything needed to run the image including OS network specifications & file locations
+Kubernetes , Mesos & DockerSwam are most popular 
+
+Dockerfile is a text file contains instructions for how to build a docker image.
+Container: instance of a docker image.
