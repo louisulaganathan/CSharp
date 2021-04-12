@@ -1,54 +1,18 @@
-﻿<Properties StartupConfiguration="{3B896D69-8AA0-489B-9FC6-B39EB16AD018}|Default">
+﻿<Properties StartupConfiguration="{E818BCC8-4D76-45E4-A18D-228014D514F0}|Default">
   <MonoDevelop.Ide.ItemProperties.CSharp8.0 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpVersionBasedFeaturesList.md">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharp6.0Samples/4.InitializeAssociateCollectionsUsingIndexersDemo.cs">
     <Files>
-      <File FileName="CSharp6.0Samples/AutoPropertyInitialization.cs" Line="15" Column="1" />
-      <File FileName="CSharp6.0Samples/AwaitInCatchFinallyBlocksDemo.cs" />
-      <File FileName="CSharp6.0Samples/ExceptionFiltersDemo.cs" />
-      <File FileName="CSharp6.0Samples/InitializeAssociateCollectionsUsingIndexersDemo.cs" />
-      <File FileName="CSharp6.0Samples/CSharp6.0Samples.csproj" />
-      <File FileName="CSharp/LocalFunctionsDemo.cs" />
-      <File FileName="CSharp6.0Samples/NameOfDemo.cs" />
-      <File FileName="CSharp6.0Samples/NullConditionalOperatorDemo.cs" />
-      <File FileName="CSharp6.0Samples/Program.cs" />
-      <File FileName="CSharp6.0Samples/ReadOnlyAutoProperty.cs" />
-      <File FileName="CSharp6.0Samples/StringInterpolationDemo.cs" />
-      <File FileName="CSharp6.0Samples/UsingStaticDemo.cs" />
-      <File FileName="CSharp/AsyncReturnTypeConcept.cs" />
-      <File FileName="CSharp/DiscardVariableDemo.cs" />
-      <File FileName="CSharp/ExpressionBodiedMemberDemo.cs" />
-      <File FileName="CSharp/LanguageSupportForTuples.cs" />
-      <File FileName="CSharp/OutVariablesDemo.cs" />
-      <File FileName="CSharp/packages.config" />
-      <File FileName="CSharp/PatternMatchingDemo.cs" />
-      <File FileName="CSharp/RefLocalsAndReturnsConcept.cs" />
-      <File FileName="CSharp/ThrowsExpressionSampleClass.cs" />
-      <File FileName="CSharp8.0/AsynchronousStreams.cs" />
-      <File FileName="CSharp8.0/DefaultInterfaceMethods.cs" />
-      <File FileName="CSharp8.0/IndicesAndRanges.cs" />
-      <File FileName="CSharp8.0/CSharp8.0.csproj" />
-      <File FileName="CSharp8.0/NullableReferenceType.cs" />
-      <File FileName="CSharp8.0/NullCoalescing-Operator.cs" />
-      <File FileName="CSharp8.0/PropertyPatternsInSwitchExpressions.cs" />
-      <File FileName="CSharp8.0/StaticLocalFunctions.cs" />
-      <File FileName="CSharp8.0/SwitchExpressions.cs" />
-      <File FileName="CSharp8.0/StringInterpolationVerbatimEnhancements.cs" />
-      <File FileName="CSharp8.0/UsingDeclarations.cs" />
-      <File FileName="CSharp8.0/TuplesPattern.cs" />
-      <File FileName="CSharp9.0/InitOnlySetters.cs" />
-      <File FileName="CSharp9.0/IsPatternMatchingEnhancements.cs" />
-      <File FileName="CSharp9.0/NewObjectCreationFitAndFinishFeature.cs" />
-      <File FileName="CSharp9.0/RecordReferenceType.cs" />
-      <File FileName="CSharp9.0/TopLevelStatements.cs" />
-      <File FileName="EF.md" />
-      <File FileName="AgileConcepts.md" Line="202" Column="7" />
-      <File FileName="CSharpVersionBasedFeaturesList.md" Line="1" Column="14" />
+      <File FileName="CSharp/DiscardVariableDemo.cs" Line="1" Column="1" />
+      <File FileName="CSharp6.0Samples/InitializeAssociateCollectionsUsingIndexersDemo.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpExamples" expanded="True">
-            <Node name="Solution Items" expanded="True" selected="True" />
+            <Node name="CSharp6.0Samples" expanded="True">
+              <Node name="4.InitializeAssociateCollectionsUsingIndexersDemo.cs" selected="True" />
+            </Node>
+            <Node name="CSharp7.0" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -69,4 +33,5 @@
       </Items>
     </MultiItemSolutionRunConfiguration>
   </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.ItemProperties.CSharp6.0Samples PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
