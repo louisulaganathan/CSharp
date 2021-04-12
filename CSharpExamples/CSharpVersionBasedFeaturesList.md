@@ -1,6 +1,7 @@
 ﻿**C# Features**
-|-------|------|
+
 |Sl.No.|C# 6.0 Features|
+|-------|------|
 |1|Auto Property initialization|
 |2|Await usage in Catch and Finally block|
 |3|Collection initialization using Indexers|
