@@ -1,6 +1,6 @@
 ﻿<Properties StartupConfiguration="{3B896D69-8AA0-489B-9FC6-B39EB16AD018}|Default">
   <MonoDevelop.Ide.ItemProperties.CSharp8.0 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="AgileConcepts.md">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpVersionBasedFeaturesList.md">
     <Files>
       <File FileName="CSharp6.0Samples/AutoPropertyInitialization.cs" Line="15" Column="1" />
       <File FileName="CSharp6.0Samples/AwaitInCatchFinallyBlocksDemo.cs" />
@@ -40,15 +40,15 @@
       <File FileName="CSharp9.0/NewObjectCreationFitAndFinishFeature.cs" />
       <File FileName="CSharp9.0/RecordReferenceType.cs" />
       <File FileName="CSharp9.0/TopLevelStatements.cs" />
-      <File FileName="EF.md" Line="37" Column="1" />
-      <File FileName="AgileConcepts.md" Line="1" Column="1" />
+      <File FileName="EF.md" />
+      <File FileName="AgileConcepts.md" Line="202" Column="7" />
+      <File FileName="CSharpVersionBasedFeaturesList.md" Line="1" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpExamples" expanded="True">
-            <Node name="AGILE" selected="True" />
-            <Node name="CSharp9.0" expanded="True" />
+            <Node name="Solution Items" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>

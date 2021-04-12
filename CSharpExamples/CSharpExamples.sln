@@ -18,6 +18,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		C.MutableAndImmutableTypes.md = C.MutableAndImmutableTypes.md
 		D.ValueAndReferenceTypes.md = D.ValueAndReferenceTypes.md
 		E.OOPSConcepts.md = E.OOPSConcepts.md
+		CSharpVersionBasedFeaturesList.md = CSharpVersionBasedFeaturesList.md
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp8.0", "CSharp8.0\CSharp8.0.csproj", "{3B896D69-8AA0-489B-9FC6-B39EB16AD018}"
