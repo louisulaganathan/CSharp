@@ -15,4 +15,5 @@ To define an enumeration type, use the enum keyword and specify the names of enu
 
 Read-Only:
 ==========
+you can use a readonly keyword to declare a readonly variable. This readonly keyword shows that you can assign the variable only when you declare a variable or in a constructor of the same class
 
