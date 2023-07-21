@@ -46,4 +46,32 @@
 |2|Record reference type|
 |3|Is pattern matching enhancements|
 |4|Top level statements|
+|5|Object creation using fit and finish features|
+|6|nint & nunit native signed integer types|
+
+|Sl.No.|C# 10.0 Features|
+|-------|------|
+|1|Record struct value type|
+|2|Struct improvements- Intance parameterless constructor|
+|3|Custom interpolation string handler|
+|4|Global using directives|
+|5|File scoped namespace declarations|
+|6|const interpolated string|
+|7|Record types can seal ToString() override|
+|8|Caller argument expression attribute|
+|9|AsyncMethodBuilder- ModuleIntializer attributes on methods|
+
+|Sl.No.|C# 11.0 Features|
+|-------|------|
+|1|Raw string literals|
+|2|UTF8 string literals by suffix u8|
+|3|Newline in interpolated string|
+|4|File local type|
+|5|Required members|
+|6|List pattern|
+|7|Generic attributes|
+|8|Generic Math supports|
+|9|Native size numeric Inptr - nint is now alias of Inptr|
+|10|Method group conversion to delegate|
+
 
