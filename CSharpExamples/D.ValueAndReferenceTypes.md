@@ -6,7 +6,8 @@ Both stack and heap are the memories in RAM.
 OS allocates the STACK memory when the new thread is created at the system level. LIFO
 RUNTIME reqests OS to allocate HEAP memory at the appln level during app startup.
 
-STACK is faster
+STACK is faster and linear datastructure
+HEAP is slower adn non linear datastructure
 
 it's possible for two variables to reference the same object and possible for operations on one variable to affect the object referenced by the other variable.
 A variable of a value type contains an instance of the type. This differs from a variable of a reference type, which contains a reference to an instance of the type. 
