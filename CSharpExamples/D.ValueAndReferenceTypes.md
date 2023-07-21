@@ -34,17 +34,18 @@ A variable of a value type contains an instance of the type. This differs from a
     |**Tuple value types**. |
       User-defined types of the form (T1, T2, ...)|
       |---------------------|------------------------------------------------------------------------------|
-  **Reference types**
-    Class types
-      Ultimate base class of all other types: object
-    Unicode strings: string, which represents a sequence of UTF-16 code units
-      User-defined types of the form class C {...}
-    Interface types
-      User-defined types of the form interface I {...}
-    Array types
-      Single-dimensional, multi-dimensional, and jagged. For example: int[], int[,], and int[][]
-    Delegate types
-      User-defined types of the form delegate int D(...)
+  **Reference types**<br/>
+    Class types<br/>
+      &emsp; Ultimate base class of all other types: object<br/>
+    Unicode strings: string, which represents a sequence of UTF-16 code units<br/>
+     &emsp; User-defined types of the form class C {...}<br/>
+    Interface types<br/>
+      &emsp;User-defined types of the form interface I {...}<br/>
+    Array types<br/>
+      &emsp;Single-dimensional, multi-dimensional, and jagged. For example: int[], int[,], and int[][]
+    Delegate types<br/>
+     &emsp; User-defined types of the form delegate int D(...)<br/>
+    Record<br/>
 
 
 **Boxing & UnBoxing:**
