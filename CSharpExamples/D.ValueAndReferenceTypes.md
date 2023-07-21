@@ -2,6 +2,12 @@
   1) Value types[STACK Memory]      => Variables of value types directly contain their data. 
   2) Reference types[HEAP Memory]  => ariables of reference types store references to their data, the latter being known as objects.
 
+Both stack and heap are the memories in RAM. 
+OS allocates the STACK memory when the new thread is created at the system level. LIFO
+RUNTIME reqests OS to allocate HEAP memory at the appln level during app startup.
+
+STACK is faster
+
 it's possible for two variables to reference the same object and possible for operations on one variable to affect the object referenced by the other variable.
 A variable of a value type contains an instance of the type. This differs from a variable of a reference type, which contains a reference to an instance of the type. 
 
