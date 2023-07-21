@@ -9,6 +9,23 @@ RUNTIME reqests OS to allocate HEAP memory at the appln level during app startup
 STACK is faster and linear datastructure
 HEAP is slower adn non linear datastructure
 
+int foo()
+{
+  char *pBuffer; //<--nothing allocated yet (excluding the pointer itself, which is allocated here on the stack).
+  bool b = true; // Allocated on the stack.
+  if(b)
+  {
+    //Create 500 bytes on the stack
+    char buffer[500];
+
+    //Create 500 bytes on the heap
+    pBuffer = new char[500];
+
+   }//<-- buffer is deallocated here, pBuffer is not
+}//<--- oops there's a memory leak, I should have called delete[] pBuffer;
+
+
+
 it's possible for two variables to reference the same object and possible for operations on one variable to affect the object referenced by the other variable.
 A variable of a value type contains an instance of the type. This differs from a variable of a reference type, which contains a reference to an instance of the type. 
 
