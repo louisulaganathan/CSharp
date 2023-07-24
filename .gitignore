@@ -4,8 +4,9 @@
 
 /.vs/CSharp/v17/.wsuo
 /CSharpExamples/.vs/CSharpExamples/FileContentIndex
-/obj
 /CSharpExamples/.vs/CSharpExamples
-/CSharpExamples/CSharp6.0Samples/obj/*
-/CSharpExamples/CSharp8.0/obj/*
-/CSharpExamples/CSharp9.0/obj/*
+bin
+obj
+packages
+*.suo
+*.user
