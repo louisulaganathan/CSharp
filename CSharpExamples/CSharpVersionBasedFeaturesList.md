@@ -10,7 +10,7 @@
 |6|Null condiditional operator ?.|
 |7|String Interpolation|
 |8|Readonly Auto property|
-|9|Using static |
+|9|Using static imports |
 
 
 |Sl.No.|C# 7.0 Features|
