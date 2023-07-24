@@ -47,17 +47,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="1.AsyncReturnTypeConcept.cs" />
+    <Compile Include="2.DiscardVariableDemo.cs" />
+    <Compile Include="3.OutVariablesDemo.cs" />
+    <Compile Include="4.RefLocalsAndReturnsConcept.cs" />
+    <Compile Include="5.LanguageSupportForTuples.cs" />
+    <Compile Include="6.LocalFunctionsDemo.cs" />
+    <Compile Include="7.ExpressionBodiedMemberDemo.cs" />
+    <Compile Include="8.PatternMatchingDemo.cs" />
+    <Compile Include="9.ThrowsExpressionSampleClass.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ThrowsExpressionSampleClass.cs" />
-    <Compile Include="ExpressionBodiedMemberDemo.cs" />
-    <Compile Include="PatternMatchingDemo.cs" />
-    <Compile Include="OutVariablesDemo.cs" />
-    <Compile Include="LanguageSupportForTuples.cs" />
-    <Compile Include="DiscardVariableDemo.cs" />
-    <Compile Include="RefLocalsAndReturnsConcept.cs" />
-    <Compile Include="LocalFunctionsDemo.cs" />
-    <Compile Include="AsyncReturnTypeConcept.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

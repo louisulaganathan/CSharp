@@ -1,31 +1,30 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp6.0Samples", "CSharp6.0Samples\CSharp6.0Samples.csproj", "{E818BCC8-4D76-45E4-A18D-228014D514F0}"
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp6.0Samples", "CSharp6.0Samples\CSharp6.0Samples.csproj", "{E818BCC8-4D76-45E4-A18D-228014D514F0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1BCCEE52-38FB-4229-B4D9-50DDE60B06FD}"
 	ProjectSection(SolutionItems) = preProject
-		1.SDKVsRunTime.md = 1.SDKVsRunTime.md
-		3.BasicDotNetConcepts.md = 3.BasicDotNetConcepts.md
 		0.DeveloperRoleClassification.md = 0.DeveloperRoleClassification.md
-		9.AsynchronousProgramming.md = 9.AsynchronousProgramming.md
-		2.B.DotNetFrameworkRoadmap.html = 2.B.DotNetFrameworkRoadmap.html
+		1.SDKVsRunTime.md = 1.SDKVsRunTime.md
 		2.A.DotNetRoadmap-FuturePlan.md = 2.A.DotNetRoadmap-FuturePlan.md
+		2.B.DotNetFrameworkRoadmap.html = 2.B.DotNetFrameworkRoadmap.html
+		3.BasicDotNetConcepts.md = 3.BasicDotNetConcepts.md
 		4.DotNETvs.NETCorevs.NETStd.md = 4.DotNETvs.NETCorevs.NETStd.md
 		5.DotNET5.md = 5.DotNET5.md
+		9.AsynchronousProgramming.md = 9.AsynchronousProgramming.md
 		A.Constants.md = A.Constants.md
 		B.GeneralCSharpConcepts-Fields.md = B.GeneralCSharpConcepts-Fields.md
 		C.MutableAndImmutableTypes.md = C.MutableAndImmutableTypes.md
+		CSharpVersionBasedFeaturesList.md = CSharpVersionBasedFeaturesList.md
 		D.ValueAndReferenceTypes.md = D.ValueAndReferenceTypes.md
 		E.OOPSConcepts.md = E.OOPSConcepts.md
-		CSharpVersionBasedFeaturesList.md = CSharpVersionBasedFeaturesList.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp8.0", "CSharp8.0\CSharp8.0.csproj", "{3B896D69-8AA0-489B-9FC6-B39EB16AD018}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp8.0", "CSharp8.0\CSharp8.0.csproj", "{3B896D69-8AA0-489B-9FC6-B39EB16AD018}"
 EndProject
-oject("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp7.0", "CSharp7.0\CSharp7.0.csproj", "{CDC9F4FE-ECA2-464C-B786-045F94333230}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp9.0", "CSharp9.0\CSharp9.0.csproj", "{D8BA13DD-4388-467E-804B-3B4AB755CBBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp9.0", "CSharp9.0\CSharp9.0.csproj", "{D8BA13DD-4388-467E-804B-3B4AB755CBBE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EF", "EF", "{0BE15FE9-63BD-4FB0-B550-01EEEF4014BA}"
 	ProjectSection(SolutionItems) = preProject
@@ -36,6 +35,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AGILE", "AGILE", "{C642D682
 	ProjectSection(SolutionItems) = preProject
 		AgileConcepts.md = AgileConcepts.md
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp7.0", "CSharp7.0\CSharp7.0.csproj", "{CDC9F4FE-ECA2-464C-B786-045F94333230}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,13 +52,16 @@ Global
 		{3B896D69-8AA0-489B-9FC6-B39EB16AD018}.Debug|anycpu.Build.0 = Debug|Any CPU
 		{3B896D69-8AA0-489B-9FC6-B39EB16AD018}.Release|anycpu.ActiveCfg = Release|Any CPU
 		{3B896D69-8AA0-489B-9FC6-B39EB16AD018}.Release|anycpu.Build.0 = Release|Any CPU
-		{CDC9F4FE-ECA2-464C-B786-045F94333230}.Debug|anycpu.ActiveCfg = Debug|anycpu
-		{CDC9F4FE-ECA2-464C-B786-045F94333230}.Debug|anycpu.Build.0 = Debug|anycpu
-		{CDC9F4FE-ECA2-464C-B786-045F94333230}.Release|anycpu.ActiveCfg = Release|anycpu
-		{CDC9F4FE-ECA2-464C-B786-045F94333230}.Release|anycpu.Build.0 = Release|anycpu
 		{D8BA13DD-4388-467E-804B-3B4AB755CBBE}.Debug|anycpu.ActiveCfg = Debug|Any CPU
 		{D8BA13DD-4388-467E-804B-3B4AB755CBBE}.Debug|anycpu.Build.0 = Debug|Any CPU
 		{D8BA13DD-4388-467E-804B-3B4AB755CBBE}.Release|anycpu.ActiveCfg = Release|Any CPU
 		{D8BA13DD-4388-467E-804B-3B4AB755CBBE}.Release|anycpu.Build.0 = Release|Any CPU
+		{CDC9F4FE-ECA2-464C-B786-045F94333230}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{CDC9F4FE-ECA2-464C-B786-045F94333230}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{CDC9F4FE-ECA2-464C-B786-045F94333230}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{CDC9F4FE-ECA2-464C-B786-045F94333230}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
