@@ -10,3 +10,4 @@ obj
 packages
 *.suo
 *.user
+/CSharpExamples/CSharp6.0Samples/obj/CSharp6.0Samples.csproj.nuget.dgspec.json
