@@ -1,6 +1,7 @@
 ﻿using System;
 
-namespace CSharp
+namespace CSharp7
+
 {
     class MainClass
     {

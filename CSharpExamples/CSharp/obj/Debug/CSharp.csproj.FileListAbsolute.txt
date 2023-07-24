@@ -1,5 +1,0 @@
-/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp/bin/Debug/CSharp.exe
-/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp/bin/Debug/CSharp.pdb
-/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp/obj/Debug/CSharp.csprojAssemblyReference.cache
-/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp/obj/Debug/CSharp.exe
-/Users/louisrajulaganathan/Projects/CSharpExamples/CSharp/obj/Debug/CSharp.pdb
