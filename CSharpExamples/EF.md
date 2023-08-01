@@ -3,7 +3,7 @@ Entity Framework - ORM
 ======================
 Queries are written in LINQ or Entity SQL and then it is translated at runtime by the providers to the particular backend query syntax for that DB.
 Lot of data access related code work is avoided since EF will do it
-    Open & Manage connection
+    <emsp>Open & Manage connection
     Read Data
     Command objects
 EF is used in SQL, Oracle & DB2 , etc.
