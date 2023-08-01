@@ -19,6 +19,8 @@ Data access logic is written in high level languages
 Any change in the context objects will be updated in DB using SaveChanges().
 EF provides services like change tracking, identity resolution, lazy loading, query translation. So that developer can focus on business logic.
 
+https://www.c-sharpcorner.com/article/lazy-loading-and-eager-loading-in-linq-to-sql/#:~:text=What%20is%20Lazy%20Loading%3F,between%20Department%20and%20Employees%20entities.
+
 
 Developement Approaches:
 ========================
