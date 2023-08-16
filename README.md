@@ -1,4 +1,37 @@
     /*
+         * classes are datastructure that combines the state[fields] and actions[methods and other function members] in a signle unit
+         * Only single inheritence is allowed in c#. A class can implement from one base class.However a class can implement more than one interface.
+         * class ChildClass: BaseClass {}
+         * class DerivedClass: IInterface1, IInterface2 {}
+         * class Derivedclass: BaseClass, IInterface1{}
+         * Access Modifiers
+         *      1) public              - can be accessed within the same assemble or another assembly
+         *      2) private             - Type or member can be accessed only by the code in the same class or struct
+         *      3) protected           - Can be access by the code in the same class or the derived class
+         *      4) internal            - Type or member can be accessed by the code in the same assesmbly
+         *      5) protected internal  - can be accessed by the code in the same assembly or from within a derived class from another assembly
+         *      6) private protected   - can be accessed by the types derived from the class in the same assembly
+         *      
+         * Gerneric classes encapsulate the operations that are not specific to any particular data typle.
+         * Most common use of generic class is with collection like linkedlist, hash table, stack, queue tree etc.
+         * delegate is a type that represents the reference of the methods with a particular parameter list and return type.
+         * When we instantiate the delegate you can associate any compatible methods.delegates allow method to be passed as parameters
+         * delegate can be used to define the callback functions
+         * public delegate int delegateName(int x, int y)
+         * 
+         * A class can't inherit from more than one class directly however the baseclass itself can inherit from another base class. So A class might
+         * indirectly inherit from multiple base class
+         * Abstract class can't be instantiated. They can only be used through derviced classes that implement abstract methods.
+         * 
+         * sealed classes doesn't allow other classes to inherit from it
+         */
+
+        /*
+         * Arrays - Single dimention int[] obj = new int[3]; int[] arr = new int[3] {1,2,3}; int[] arr = {1,2,3};
+         * Multiple Dimention => int[,] obj = new int[2,3]; int[,] arr = {{1,2,3},{4,5,6}};
+         * Jaggerd array => int[][] obj = new int[2][]; obj[0] = new int[3]{1,2,3};
+         
+     * OOPS:
      * Class,Struct or record types are like blueprints that specifies what the type can do.
      * An object is an instance of a class. Object is basically a block of memory that has been allocated and configured according to the blueprint.
      * 
