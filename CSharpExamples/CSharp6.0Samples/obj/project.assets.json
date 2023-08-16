@@ -1,31 +1,34 @@
 {
   "version": 3,
   "targets": {
-    ".NETFramework,Version=v4.7.2": {}
+    ".NETFramework,Version=v4.7.2": {},
+    ".NETFramework,Version=v4.7.2/win7-x86": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.7.2": []
   },
   "packageFolders": {
-    "/Users/louisrajulaganathan/.nuget/packages/": {}
+    "C:\\Users\\louis\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/louisrajulaganathan/Projects/CSharp/CSharpExamples/CSharp6.0Samples/CSharp6.0Samples.csproj",
+      "projectUniqueName": "D:\\Workspace\\CSharp\\CSharpExamples\\CSharp6.0Samples\\CSharp6.0Samples.csproj",
       "projectName": "CSharp6.0Samples",
-      "projectPath": "/Users/louisrajulaganathan/Projects/CSharp/CSharpExamples/CSharp6.0Samples/CSharp6.0Samples.csproj",
-      "packagesPath": "/Users/louisrajulaganathan/.nuget/packages/",
-      "outputPath": "/Users/louisrajulaganathan/Projects/CSharp/CSharpExamples/CSharp6.0Samples/obj/",
+      "projectPath": "D:\\Workspace\\CSharp\\CSharpExamples\\CSharp6.0Samples\\CSharp6.0Samples.csproj",
+      "packagesPath": "C:\\Users\\louis\\.nuget\\packages\\",
+      "outputPath": "D:\\Workspace\\CSharp\\CSharpExamples\\CSharp6.0Samples\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/louisrajulaganathan/.config/NuGet/NuGet.Config"
+        "C:\\Users\\louis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net472"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -43,7 +46,12 @@
     "frameworks": {
       "net472": {
         "targetAlias": "net472",
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.200/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
       }
     }
   }

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mjoLfQDkaRK9ctxQ+KWcWivmUrDEfJQhGwli2WVyMR9RUu3TtFfFtYFVNvYEBH114pBp3uzKSWZwwFCLS2dTRg==",
+  "dgSpecHash": "07REN5GHm2/iyp0rSHwqLZL7jYMJjkA1BPlILpckWq8ydu0Dx/Z9qKOJSmHHe9Sp0ypRyiWdFlABobo1rwYpYw==",
   "success": true,
-  "projectFilePath": "/Users/louisrajulaganathan/Projects/CSharp/CSharpExamples/CSharp8.0/CSharp8.0.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Workspace\\CSharp\\CSharpExamples\\CSharp8.0\\CSharp8.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\louis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
