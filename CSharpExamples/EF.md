@@ -1,23 +1,25 @@
 ﻿ORM - Object Relational Mapper
 Entity Framework - ORM
 ======================
-Queries are written in LINQ or Entity SQL and then it is translated at runtime by the providers to the particular backend query syntax for that DB.
-Lot of data access related code work is avoided since EF will do it
-    Open & Manage connection
-    Read Data
-    Command objects
-EF is used in SQL, Oracle & DB2 , etc.
-It basically generates the business objects & entities according to Tables and provides the mechanism for
-    Performing basic CRUD operations
-    Easy managing 1-1, 1-M & M-M relationship
-    Ability to have inheritance relationship between entities.
+Queries are written in LINQ or Entity SQL and then it is translated at runtime by the providers to the particular backend query syntax for that DB.<br/>
+Lot of data access related code work is avoided since EF will do it<br/>
+    &emsp;Open & Manage connection<br/>
+    &emsp;Read Data<br/>
+    &emsp;Command objects<br/>
+EF is used in SQL, Oracle & DB2 , etc.<br/>
+It basically generates the business objects & entities according to Tables and provides the mechanism for<br/>
+    &emsp;Performing basic CRUD operations<br/>
+    &emsp;Easy managing 1-1, 1-M & M-M relationship<br/>
+    &emsp;Ability to have inheritance relationship between entities.<br/>
 
-Data access logic is written in high level languages
-    EF
-        ADO.NET
+Data access logic is written in high level languages<br/>
+    &emsp;EF<br/>
+        &emsp;ADO.NET<br/>
 
-Any change in the context objects will be updated in DB using SaveChanges().
+Any change in the context objects will be updated in DB using SaveChanges().<br/>
 EF provides services like change tracking, identity resolution, lazy loading, query translation. So that developer can focus on business logic.
+
+https://www.c-sharpcorner.com/article/lazy-loading-and-eager-loading-in-linq-to-sql/#:~:text=What%20is%20Lazy%20Loading%3F,between%20Department%20and%20Employees%20entities.
 
 
 Developement Approaches:
