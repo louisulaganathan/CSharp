@@ -11,3 +11,4 @@ packages
 *.suo
 *.user
 /CSharpExamples/CSharp6.0Samples/obj/*.json
+/.vs/slnx.sqlite
