@@ -205,7 +205,17 @@ Stories are short descriptions of a small piece of desired functionality, writte
 
 Enablers
 ==========
-An Enabler supports the activities needed to extend the Architectural Runway to provide future business functionality. These include exploration, architecture, infrastructure, and compliance. Enablers are captured in the various backlogs and occur throughout the Framework. Details Enablers bring visibility to all the work necessary to support efficient development and delivery of future business requirements. Primarily, enablers are used for exploration, evolving the architecture, improving infrastructure and compliance activities. Since enablers reflect real work they cannot remain invisible. Instead, they’re treated like all other value-added development activities—subject to estimating, visibility and tracking, Work in Process (WIP) limits, feedback, and presentation of results. Type of Enablers Enablers can be used for any activities that support upcoming business requirements and generally fall into one of four categories: Exploration enablers – These support research, prototyping, and other activities needed to develop an understanding of customer needs, including the exploration of prospective Solutions and evaluating alternatives. Architectural enablers – These are created to build the Architectural Runway, which allows smoother and faster development. Infrastructure enablers – These are created to build, enhance, and automate the development, testing, and deployment environments. They facilitate faster development, higher-quality testing, and a faster Continuous Delivery Pipeline. Compliance enablers – These facilitate managing specific compliance activities, including Verification and Validation (V&V), documentation and signoffs, and regulatory submissions and approvals.
+An Enabler supports the activities needed to extend the Architectural Runway to provide future business functionality. 
+These include exploration, architecture, infrastructure, and compliance. 
+Enablers are captured in the various backlogs and occur throughout the Framework. 
+Details Enablers bring visibility to all the work necessary to support efficient development and delivery of future business requirements. 
+Primarily, enablers are used for exploration, evolving the architecture, improving infrastructure and compliance activities. 
+Since enablers reflect real work they cannot remain invisible. Instead, they’re treated like all other value-added development activities—subject to estimating, visibility and tracking, Work in Process (WIP) limits, feedback, and presentation of results. 
+Type of Enablers Enablers can be used for any activities that support upcoming business requirements and generally fall into one of four categories: 
+Exploration enablers – These support research, prototyping, and other activities needed to develop an understanding of customer needs, including the exploration of prospective Solutions and evaluating alternatives. 
+Architectural enablers – These are created to build the Architectural Runway, which allows smoother and faster development. 
+Infrastructure enablers – These are created to build, enhance, and automate the development, testing, and deployment environments. They facilitate faster development, higher-quality testing, and a faster Continuous Delivery Pipeline. 
+Compliance enablers – These facilitate managing specific compliance activities, including Verification and Validation (V&V), documentation and signoffs, and regulatory submissions and approvals.
 
 
 
