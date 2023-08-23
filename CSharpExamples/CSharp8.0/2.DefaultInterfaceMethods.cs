@@ -6,7 +6,7 @@ namespace CSharp8._0
 {
     public class DefaultInterfaceMethods
     {
-        //Beginning with C# 8.0 on .NET Core 3.0, you can define an implementation when you declare a member of an interface
+        //Beginning with C# 8.0 on .NET Core 3.0, you can define an default implementation when you declare a member of an interface
         //You can now add members to interfaces and provide an implementation for those members.
         //This language feature enables API authors to add methods to an interface in later versions without breaking source or
         //binary compatibility with existing implementations of that interface. Existing implementations inherit the default implementation

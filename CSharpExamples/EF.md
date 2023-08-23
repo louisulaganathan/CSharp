@@ -45,6 +45,11 @@ EDM can be updated whenever the DB schema changes.
 LINQ -.NET3.5
 ==============
 Used to query different data sources like entities, sql 
+LINQ can be written in either query syntax or method syntax.
+The compiler translates LINQ statements written with query syntax into the equivalent method call syntax. 
+Therefore, regardless of your syntax choice, the two versions of the query produce the same result. 
+Choose which syntax works best for your situation: for instance, if you're working in a team where 
+some of the members have difficulty with method syntax, try to prefer using query syntax.
 
 Linq to entities operates on EF to access data from the underlying DB
 LINQ method syntax
@@ -98,3 +103,29 @@ List<int> oddNumbers =  numbers.where(n=>n%2 == 1).ToList<>;
     n=>n%2==1    => Lamda Expressions
     
 we can write local functions that can be passed as arg or returned as value.
+
+IEnumerable<T> Vs IQueryable<T>:
+===============================
+    When you query the in memory collection using LINQ we can use the IEnumerable
+    When query the remote database using LINQ  we can use IQueryable.
+Deferred Execution:
+===================
+    the query variable itself only stores the query commands. 
+    The actual execution of the query is deferred until you iterate over the query variable in a foreach statement. 
+    This concept is referred to as deferred execution 
+
+Immediate Execution:
+====================
+
+    Queries that perform aggregation functions over a range of source elements must first iterate over those elements. Examples of such queries are Count, Max, Average, and First.
+
+'''List<int> numQuery2 =
+    (from num in numbers
+     where (num % 2) == 0
+     select num).ToList();
+
+
+Lambda Expressions:
+===================
+
+    A lambda expression is an inline function that uses the => operator to separate input parameters from the function body and can be converted at compile time to a delegate
