@@ -38,6 +38,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AGILE", "AGILE", "{C642D682
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp7.0", "CSharp7.0\CSharp7.0.csproj", "{CDC9F4FE-ECA2-464C-B786-045F94333230}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp10", "CSharp10\CSharp10.csproj", "{7ED94D61-0539-407C-8072-DFE36C78DA48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -60,8 +62,15 @@ Global
 		{CDC9F4FE-ECA2-464C-B786-045F94333230}.Debug|anycpu.Build.0 = Debug|Any CPU
 		{CDC9F4FE-ECA2-464C-B786-045F94333230}.Release|anycpu.ActiveCfg = Release|Any CPU
 		{CDC9F4FE-ECA2-464C-B786-045F94333230}.Release|anycpu.Build.0 = Release|Any CPU
+		{7ED94D61-0539-407C-8072-DFE36C78DA48}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{7ED94D61-0539-407C-8072-DFE36C78DA48}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{7ED94D61-0539-407C-8072-DFE36C78DA48}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{7ED94D61-0539-407C-8072-DFE36C78DA48}.Release|anycpu.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCC63E16-10BF-4362-877D-0DE63D4C10E7}
 	EndGlobalSection
 EndGlobal

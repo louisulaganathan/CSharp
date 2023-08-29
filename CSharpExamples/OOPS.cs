@@ -4,7 +4,7 @@
      * class ChildClass: BaseClass {}
      * class DerivedClass: IInterface1, IInterface2 {}
      * class Derivedclass: BaseClass, IInterface1{}
-     * Access Modifiers
+     * Access Modifiers 
      *      1) public              - can be accessed within the same assemble or another assembly
      *      2) private             - Type or member can be accessed only by the code in the same class or struct
      *      3) protected           - Can be access by the code in the same class or the derived class
